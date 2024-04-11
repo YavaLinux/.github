@@ -1,4 +1,10 @@
 ## YavaLinux
 Custmoized GNU/Linux Distro for Developers **(Author: [Hamed Mahmoudkhani](https://github.com/ainyava))**
 
-![screenshot](profile/screenshot.jpg)
+### Gnome
+![gnome](gnome.jpg)
+
+
+### KDE
+![KDE](kde.jpg)
+
